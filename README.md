@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there it's me... THE COOLEST SOUND CLOUD RAPPER👋
+
+**I'm a 2D animator and Programmer**
+
+(insert stuff)
+
+1. Pronouns: He/Him
+2. Discord: (insert)
+3. Fun Fact!: I love working on a thing called B-verse. It's my dream project.
+
 
 <!--
 **Biro-verse/Biro-verse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
