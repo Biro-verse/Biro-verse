@@ -5,7 +5,7 @@
 (insert stuff)
 
 1. Pronouns: He/Him
-2. Discord: (insert)
+2. Discord: b_verse
 3. Fun Fact!: I love working on a thing called B-verse. It's my dream project.
 
 
