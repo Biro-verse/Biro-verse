@@ -1,6 +1,6 @@
-## Hi there it's me... THE COOLEST SOUND CLOUD RAPPER👋
+# Hi there it's me... THE COOLEST SOUND CLOUD RAPPER👋
 
-**I'm a 2D animator and Programmer**
+## **I'm a 2D animator and Programmer**
 
 ![image](https://github.com/Biro-verse/Biro-verse/assets/81523047/b33e2a19-fd56-4663-ad07-201c19d349a5)
 
