@@ -9,7 +9,11 @@
 3. 📫 You can reach me on Discord!: b_verse
 4. ⚡ Fun fact!: I love working on a thing called B-verse. It's my dream project.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBiro-verseanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### **Zoo wee mama**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biro-verse&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Biro-verse/Biro-verse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
