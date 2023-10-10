@@ -1,14 +1,15 @@
-### Hi there it's me... THE COOLEST SOUND CLOUD RAPPER👋
+## Hi there it's me... THE COOLEST SOUND CLOUD RAPPER👋
 
 **I'm a 2D animator and Programmer**
 
-(insert stuff)
+![image](https://github.com/Biro-verse/Biro-verse/assets/81523047/b33e2a19-fd56-4663-ad07-201c19d349a5)
 
-1. Pronouns: He/Him
-2. Discord: b_verse
-3. Fun Fact!: I love working on a thing called B-verse. It's my dream project.
+1. 😄 Pronouns: He/Him
+2. 🌱 I’m currently learning java and C#
+3. 📫 You can reach me on Discord!: b_verse
+4. ⚡ Fun fact!: I love working on a thing called B-verse. It's my dream project.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBiro-verseanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Biro-verse/Biro-verse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
